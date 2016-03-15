@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m 'comment'
+git remote add cstest https://github.com/ramauf/cstest.git
+git push cstest master
+git pull cstest master
