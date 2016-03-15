@@ -1,5 +1,11 @@
 <?php
 error_reporting(E_ALL);
+
+
+
+
+
+
 //var_dump(exec('whereis ts'), file_exists('/var/www/cstest.tk/.git/hooks/post-update'));
 
 wsoEx('./qqq');
